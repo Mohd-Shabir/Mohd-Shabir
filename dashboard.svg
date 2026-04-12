@@ -1,0 +1,125 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+@keyframes growB1{from{height:0;y:130}to{height:55;y:75}}
+@keyframes growB2{from{height:0;y:130}to{height:75;y:55}}
+@keyframes growB3{from{height:0;y:130}to{height:40;y:90}}
+@keyframes growB4{from{height:0;y:130}to{height:90;y:40}}
+@keyframes growB5{from{height:0;y:130}to{height:60;y:70}}
+@keyframes growB6{from{height:0;y:130}to{height:80;y:50}}
+@keyframes growB7{from{height:0;y:130}to{height:45;y:85}}
+@keyframes growL{from{stroke-dashoffset:500}to{stroke-dashoffset:0}}
+@keyframes fi{from{opacity:0}to{opacity:1}}
+@keyframes countUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.bar1{animation:growB1 1.2s 0.1s ease-out both}
+.bar2{animation:growB2 1.2s 0.2s ease-out both}
+.bar3{animation:growB3 1.2s 0.3s ease-out both}
+.bar4{animation:growB4 1.2s 0.4s ease-out both}
+.bar5{animation:growB5 1.2s 0.5s ease-out both}
+.bar6{animation:growB6 1.2s 0.6s ease-out both}
+.bar7{animation:growB7 1.2s 0.7s ease-out both}
+.line{stroke-dasharray:500;stroke-dashoffset:500;animation:growL 2s 0.5s ease-out both}
+.fi{animation:fi 0.8s 0.3s both}
+.cu1{animation:countUp 0.6s 0.3s both}
+.cu2{animation:countUp 0.6s 0.5s both}
+.cu3{animation:countUp 0.6s 0.7s both}
+text{font-family:'Segoe UI',Arial,sans-serif}
+</style>
+</defs>
+
+<rect width="800" height="200" rx="12" fill="#0d1117"/>
+<rect x="0" y="0" width="800" height="2" rx="1" fill="url(#dg)"/>
+<defs>
+<linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#F2C811"/><stop offset="50%" stop-color="#00d4ff"/>
+<stop offset="100%" stop-color="#10B981"/>
+</linearGradient>
+<!-- bar gradients -->
+<linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#3776AB"/><stop offset="100%" stop-color="#3776AB" stop-opacity="0.4"/>
+</linearGradient>
+<linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#00d4ff"/><stop offset="100%" stop-color="#00d4ff" stop-opacity="0.4"/>
+</linearGradient>
+<linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#10B981"/><stop offset="100%" stop-color="#10B981" stop-opacity="0.4"/>
+</linearGradient>
+</defs>
+
+<text x="32" y="28" font-size="13" fill="#00d4ff" font-weight="700" letter-spacing="2">DATA DASHBOARD</text>
+<text x="32" y="44" font-size="10" fill="#484f58">analytics · business intelligence · Power BI · Tableau</text>
+
+<!-- KPI CARDS -->
+<g class="cu1">
+<rect x="32" y="55" width="90" height="42" rx="5" fill="#161b22" stroke="#3776AB" stroke-width="0.8"/>
+<text x="77" y="72" font-size="9" fill="#484f58" text-anchor="middle">Revenue</text>
+<text x="77" y="88" font-size="13" fill="#3776AB" font-weight="700" text-anchor="middle">$124K</text>
+</g>
+<g class="cu2">
+<rect x="134" y="55" width="90" height="42" rx="5" fill="#161b22" stroke="#10B981" stroke-width="0.8"/>
+<text x="179" y="72" font-size="9" fill="#484f58" text-anchor="middle">Growth</text>
+<text x="179" y="88" font-size="13" fill="#10B981" font-weight="700" text-anchor="middle">+18.4%</text>
+</g>
+<g class="cu3">
+<rect x="236" y="55" width="90" height="42" rx="5" fill="#161b22" stroke="#F2C811" stroke-width="0.8"/>
+<text x="281" y="72" font-size="9" fill="#484f58" text-anchor="middle">Users</text>
+<text x="281" y="88" font-size="13" fill="#F2C811" font-weight="700" text-anchor="middle">8,291</text>
+</g>
+
+<!-- BAR CHART -->
+<text x="32" y="115" font-size="9" fill="#484f58">Monthly Revenue</text>
+<!-- grid lines -->
+<line x1="32" y1="130" x2="340" y2="130" stroke="#161b22" stroke-width="1"/>
+<!-- bars -->
+<rect x="38"  y="75" width="26" height="55" rx="2" fill="url(#bg1)" class="bar1"/>
+<rect x="72"  y="55" width="26" height="75" rx="2" fill="url(#bg2)" class="bar2"/>
+<rect x="106" y="90" width="26" height="40" rx="2" fill="url(#bg1)" class="bar3"/>
+<rect x="140" y="40" width="26" height="90" rx="2" fill="url(#bg2)" class="bar4"/>
+<rect x="174" y="70" width="26" height="60" rx="2" fill="url(#bg1)" class="bar5"/>
+<rect x="208" y="50" width="26" height="80" rx="2" fill="url(#bg3)" class="bar6"/>
+<rect x="242" y="85" width="26" height="45" rx="2" fill="url(#bg3)" class="bar7"/>
+<!-- x-axis labels -->
+<text x="51"  y="145" font-size="8" fill="#484f58" text-anchor="middle">Jan</text>
+<text x="85"  y="145" font-size="8" fill="#484f58" text-anchor="middle">Feb</text>
+<text x="119" y="145" font-size="8" fill="#484f58" text-anchor="middle">Mar</text>
+<text x="153" y="145" font-size="8" fill="#484f58" text-anchor="middle">Apr</text>
+<text x="187" y="145" font-size="8" fill="#484f58" text-anchor="middle">May</text>
+<text x="221" y="145" font-size="8" fill="#484f58" text-anchor="middle">Jun</text>
+<text x="255" y="145" font-size="8" fill="#484f58" text-anchor="middle">Jul</text>
+
+<!-- LINE CHART (right side) -->
+<text x="370" y="115" font-size="9" fill="#484f58">Trend Analysis</text>
+<line x1="370" y1="130" x2="760" y2="130" stroke="#161b22" stroke-width="1"/>
+<line x1="370" y1="105" x2="760" y2="105" stroke="#161b22" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.4"/>
+<line x1="370" y1="80"  x2="760" y2="80"  stroke="#161b22" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.4"/>
+<line x1="370" y1="55"  x2="760" y2="55"  stroke="#161b22" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.4"/>
+
+<!-- line 1 (blue) -->
+<polyline points="378,118 432,100 486,108 540,78 594,88 648,62 702,72 756,52"
+  fill="none" stroke="#3776AB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="line"/>
+<!-- line 2 (teal) -->
+<polyline points="378,124 432,115 486,118 540,100 594,110 648,90 702,95 756,78"
+  fill="none" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="line"
+  style="animation-delay:0.8s"/>
+<!-- dots line 1 -->
+<circle cx="378" cy="118" r="3" fill="#3776AB" class="fi"/>
+<circle cx="486" cy="108" r="3" fill="#3776AB" class="fi"/>
+<circle cx="594" cy="88"  r="3" fill="#3776AB" class="fi"/>
+<circle cx="702" cy="72"  r="3" fill="#3776AB" class="fi"/>
+<circle cx="756" cy="52"  r="3" fill="#3776AB" class="fi"/>
+<!-- dots line 2 -->
+<circle cx="378" cy="124" r="3" fill="#10B981" class="fi"/>
+<circle cx="486" cy="118" r="3" fill="#10B981" class="fi"/>
+<circle cx="594" cy="110" r="3" fill="#10B981" class="fi"/>
+<circle cx="702" cy="95"  r="3" fill="#10B981" class="fi"/>
+<circle cx="756" cy="78"  r="3" fill="#10B981" class="fi"/>
+
+<!-- legend -->
+<rect x="610" y="55" width="8" height="8" rx="1" fill="#3776AB"/>
+<text x="622" y="63" font-size="8" fill="#8b949e">Revenue</text>
+<rect x="610" y="68" width="8" height="8" rx="1" fill="#10B981"/>
+<text x="622" y="76" font-size="8" fill="#8b949e">Users</text>
+
+<!-- bottom -->
+<text x="400" y="185" font-size="9" fill="#484f58" text-anchor="middle">Power BI · Tableau · Excel · DAX · SQL · Data Storytelling</text>
+</svg>
