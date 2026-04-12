@@ -21,7 +21,6 @@
 
 BSc Digital Business & Data Science student at the University of Europe for Applied Sciences, Dubai (2024–2027). I build data-driven solutions, explore machine learning, and automate workflows with AI tools.
 
-> *"In God we trust. All others must bring data."*
 
 ---
 
@@ -42,26 +41,6 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 <picture>
   <img src="https://raw.githubusercontent.com/Mohd-Shabir/Mohd-Shabir/main/dashboard.svg" alt="Dashboard" width="100%"/>
 </picture>
-
-| Concept | Status |
-|:---|:---|
-| Supervised Learning — Regression, Classification | ✅ Studied |
-| Unsupervised Learning — Clustering, PCA | 📖 In Progress |
-| Neural Networks & Deep Learning | 📖 In Progress |
-| Large Language Models & Prompt Engineering | ✅ Actively Using |
-| AI Workflow Automation with n8n | ✅ Applied in Projects |
-| Model Deployment — Streamlit / Flask | 🎯 Next Goal |
-
----
-
-## Projects
-
-<div align="center">
-
-[![AI Job Market](https://github-readme-stats.vercel.app/api/pin/?username=Mohd-Shabir&repo=ai-job-market-insights&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff)](https://github.com/Mohd-Shabir/ai-job-market-insights)
-[![Library System](https://github-readme-stats.vercel.app/api/pin/?username=Mohd-Shabir&repo=library-management-system&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff)](https://github.com/Mohd-Shabir/library-management-system)
-
-</div>
 
 ---
 
@@ -86,22 +65,12 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 
 **BSc Digital Business & Data Science** — University of Europe for Applied Sciences, Dubai `2024–2027`
 
-Coursework: Data Analytics · Database Management · Digital Transformation · Business Intelligence · Machine Learning
 
 **Higher Secondary Certificate — Computer Science** — The Royal Academy, Ajman `2022`
 
 ---
 
-## 2025 Goals
 
-- [x] Start BSc in Data Science & Digital Business
-- [x] Complete AI Job Market Analysis project
-- [ ] Google Data Analytics Certificate
-- [ ] Microsoft PL-300 Power BI Certification
-- [ ] Land a Data Analytics / AI Internship in UAE
-- [ ] Build & deploy an end-to-end ML project
-
----
 
 <div align="center">
 
