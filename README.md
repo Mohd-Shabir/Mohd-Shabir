@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Mohd%20Shabir&fontSize=56&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20·%20AI%20·%20Digital%20Business&descAlignY=60&descColor=7fdbff&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Dubai%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Digital+Business+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Dubai%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
 
 <br/>
 
