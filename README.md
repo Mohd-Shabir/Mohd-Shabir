@@ -32,18 +32,6 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 
 ---
 
-## AI & Machine Learning
-
-<picture>
-  <img src="https://raw.githubusercontent.com/Mohd-Shabir/Mohd-Shabir/main/agents.svg" alt="AI Agents" width="100%"/>
-</picture>
-
-<picture>
-  <img src="https://raw.githubusercontent.com/Mohd-Shabir/Mohd-Shabir/main/dashboard.svg" alt="Dashboard" width="100%"/>
-</picture>
-
----
-
 ## GitHub Stats
 
 <div align="center">
