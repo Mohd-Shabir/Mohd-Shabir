@@ -54,7 +54,7 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 **BSc Digital Business & Data Science** — University of Europe for Applied Sciences, Dubai `2024–2027`
 
 
-**Higher Secondary Certificate — Computer Science** — The Royal Academy, Ajman `2022`
+**Higher Secondary Certificate — Computer Science** — The Royal Academy, Ajman 
 
 ---
 
