@@ -6,10 +6,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=safari&logoColor=white)](https://mohd-shabir.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Location](https://img.shields.io/badge/Dubai_UAE-21262d?style=for-the-badge&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-shabir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=safari&logoColor=white)](https://mohd-shabir.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabirshirzad1234@gmail.com)
+[![Location](https://img.shields.io/badge/Ajman_UAE-21262d?style=for-the-badge&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohd-Shabir&color=00d4ff&style=flat-square&label=profile+views)
 
@@ -64,7 +64,7 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-00d4ff?style=for-the-badge&logo=safari&logoColor=white)](https://mohd-shabir.github.io)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-shabir)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00d4ff?style=for-the-badge&logo=safari&logoColor=white)](https://mohd-shabir.github.io/Portfolio/)
 
 </div>
