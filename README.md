@@ -19,7 +19,7 @@
 
 ## About
 
-BSc Digital Business & Data Science student at the University of Europe for Applied Sciences, Dubai (2024–2027). I build data-driven solutions, explore machine learning, and automate workflows with AI tools.
+BSc Digital Business & Data Science student at the University of Europe for Applied Sciences, Dubai (2024–2027), combining data analytics, business strategy, and AI-driven solutions to solve real-world problems.
 
 
 ---
