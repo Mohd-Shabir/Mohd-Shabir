@@ -24,11 +24,48 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 
 ---
 
-## Skills & Tech Stack
-<!-- SKILLS SECTION - CREATIVE BADGES -->
-## ⚡ Skills & Expertise
+<!-- SKILLS SECTION -->
+## ⚡ Skills
 
-### 💹 Finance & Investment
+**`🐍 Programming`** &nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/Mohd-Shabir)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)](https://github.com/Mohd-Shabir)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Mohd-Shabir)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/Mohd-Shabir)
+
+**`📊 Data & BI`** &nbsp;
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/Mohd-Shabir)
+[![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://github.com/Mohd-Shabir)
+[![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-1a1a2e?style=flat-square&logo=databricks&logoColor=F2C811)](https://github.com/Mohd-Shabir)
+[![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-1a1a2e?style=flat-square&logo=testinglibrary&logoColor=F2C811)](https://github.com/Mohd-Shabir)
+[![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-1a1a2e?style=flat-square&logo=funimation&logoColor=F2C811)](https://github.com/Mohd-Shabir)
+[![Variance Analysis](https://img.shields.io/badge/Variance_Analysis-1a1a2e?style=flat-square&logo=googleanalytics&logoColor=F2C811)](https://github.com/Mohd-Shabir)
+[![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-1a1a2e?style=flat-square&logo=cliqz&logoColor=F2C811)](https://github.com/Mohd-Shabir)
+
+**`🤖 ML & AI`** &nbsp;
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Classification](https://img.shields.io/badge/Classification-e74c3c?style=flat-square&logo=deepnote&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Clustering](https://img.shields.io/badge/Clustering-e74c3c?style=flat-square&logo=quicklook&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-e74c3c?style=flat-square&logo=moleculer&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-e74c3c?style=flat-square&logo=openai&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-e74c3c?style=flat-square&logo=openai&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/Mohd-Shabir)
+
+**`🛠️ Tools`** &nbsp;
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/Mohd-Shabir)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Power Platform](https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)](https://github.com/Mohd-Shabir)
+[![Agile](https://img.shields.io/badge/Agile_Methodologies-0052CC?style=flat-square&logo=jira&logoColor=white)](https://github.com/Mohd-Shabir)
+
+**`💹 Finance`** &nbsp;
 [![Financial Accounting](https://img.shields.io/badge/Financial_Accounting_&_Reporting-1a1a2e?style=flat-square&logo=cashapp&logoColor=2ecc71)](https://github.com/Mohd-Shabir)
 [![Cost Accounting](https://img.shields.io/badge/Controlling_&_Cost_Accounting-1a1a2e?style=flat-square&logo=databricks&logoColor=2ecc71)](https://github.com/Mohd-Shabir)
 [![CVP Analysis](https://img.shields.io/badge/Cost--Volume--Profit_Analysis-1a1a2e?style=flat-square&logo=graphql&logoColor=2ecc71)](https://github.com/Mohd-Shabir)
@@ -39,45 +76,7 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 [![Valuation](https://img.shields.io/badge/Valuation_Concepts-1a1a2e?style=flat-square&logo=moneygo&logoColor=2ecc71)](https://github.com/Mohd-Shabir)
 [![Risk Management](https://img.shields.io/badge/Financial_Risk_Management-1a1a2e?style=flat-square&logo=shield&logoColor=2ecc71)](https://github.com/Mohd-Shabir)
 
-### 🐍 Programming & Databases
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/Mohd-Shabir)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)](https://github.com/Mohd-Shabir)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Mohd-Shabir)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://github.com/Mohd-Shabir)
-
-### 📊 Data Analysis & Business Intelligence
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/Mohd-Shabir)
-[![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://github.com/Mohd-Shabir)
-[![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-1a1a2e?style=flat-square&logo=databricks&logoColor=F2C811)](https://github.com/Mohd-Shabir)
-[![Variance Analysis](https://img.shields.io/badge/Variance_Analysis-1a1a2e?style=flat-square&logo=googleanalytics&logoColor=F2C811)](https://github.com/Mohd-Shabir)
-[![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-1a1a2e?style=flat-square&logo=cliqz&logoColor=F2C811)](https://github.com/Mohd-Shabir)
-[![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-1a1a2e?style=flat-square&logo=testinglibrary&logoColor=F2C811)](https://github.com/Mohd-Shabir)
-[![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-1a1a2e?style=flat-square&logo=funimation&logoColor=F2C811)](https://github.com/Mohd-Shabir)
-
-### 🤖 Machine Learning & AI
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Classification](https://img.shields.io/badge/Classification-e74c3c?style=flat-square&logo=deepnote&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Clustering](https://img.shields.io/badge/Clustering-e74c3c?style=flat-square&logo=quicklook&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-e74c3c?style=flat-square&logo=moleculer&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-e74c3c?style=flat-square&logo=openai&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-e74c3c?style=flat-square&logo=openai&logoColor=white)](https://github.com/Mohd-Shabir)
-
-### 🛠️ Tools & Platforms
-[![Power Platform](https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/Mohd-Shabir)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Agile](https://img.shields.io/badge/Agile_Methodologies-0052CC?style=flat-square&logo=jira&logoColor=white)](https://github.com/Mohd-Shabir)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/Mohd-Shabir)
-
-### 🔬 Research & Analytical Methods
+**`🔬 Research`** &nbsp;
 [![Quantitative Research](https://img.shields.io/badge/Quantitative_Research-8e44ad?style=flat-square&logo=overleaf&logoColor=white)](https://github.com/Mohd-Shabir)
 [![Qualitative Research](https://img.shields.io/badge/Qualitative_Research-8e44ad?style=flat-square&logo=readme&logoColor=white)](https://github.com/Mohd-Shabir)
 [![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8e44ad?style=flat-square&logo=r&logoColor=white)](https://github.com/Mohd-Shabir)
@@ -85,10 +84,6 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 [![Structured Reporting](https://img.shields.io/badge/Structured_Reporting-8e44ad?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/Mohd-Shabir)
 
 ---
-<picture>
-  <img src="https://raw.githubusercontent.com/Mohd-Shabir/Mohd-Shabir/main/skills.svg" alt="Skills" width="100%"/>
-</picture>
-
 ---
 
 ## GitHub Stats
