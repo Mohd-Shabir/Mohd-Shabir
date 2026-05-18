@@ -1,150 +1,124 @@
-<svg width="800" height="480" viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<style>
-@keyframes w1{from{width:0}to{width:246px}}
-@keyframes w2{from{width:0}to{width:225px}}
-@keyframes w3{from{width:0}to{width:240px}}
-@keyframes w4{from{width:0}to{width:204px}}
-@keyframes w5{from{width:0}to{width:234px}}
-@keyframes w6{from{width:0}to{width:165px}}
-@keyframes w7{from{width:0}to{width:180px}}
-.b1{animation:w1 1.4s 0.0s ease-out both}
-.b2{animation:w2 1.4s 0.1s ease-out both}
-.b3{animation:w3 1.4s 0.2s ease-out both}
-.b4{animation:w4 1.4s 0.3s ease-out both}
-.b5{animation:w5 1.4s 0.4s ease-out both}
-.b6{animation:w6 1.4s 0.5s ease-out both}
-.b7{animation:w7 1.4s 0.6s ease-out both}
-@keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
-.f1{animation:fi 0.5s 0.0s both}.f2{animation:fi 0.5s 0.1s both}
-.f3{animation:fi 0.5s 0.2s both}.f4{animation:fi 0.5s 0.3s both}
-.f5{animation:fi 0.5s 0.4s both}.f6{animation:fi 0.5s 0.5s both}
-.f7{animation:fi 0.5s 0.6s both}
-text{font-family:'Segoe UI',Arial,sans-serif}
-</style>
-</defs>
-<rect width="800" height="480" rx="12" fill="#0d1117"/>
-<rect x="0" y="0" width="800" height="2" rx="1" fill="url(#tg)"/>
-<defs>
-<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0%" stop-color="#3776AB"/><stop offset="35%" stop-color="#00d4ff"/>
-<stop offset="70%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#10B981"/>
-</linearGradient>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 515" width="860" height="515">
+  <defs>
+    <style>
+      .hex-label { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 11px; fill: #e8f4f8; text-anchor: middle; dominant-baseline: middle; font-weight: 600; }
+      .hex-label-sm { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 9.5px; fill: #e8f4f8; text-anchor: middle; dominant-baseline: middle; font-weight: 600; }
+    </style>
+    <filter id="glow-blue"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-yellow"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-red"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-green"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-purple"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
 
-<!-- header -->
-<text x="32" y="36" font-size="13" fill="#00d4ff" font-weight="700" letter-spacing="2">SKILL PROFICIENCY</text>
-<text x="32" y="52" font-size="10" fill="#484f58">self-assessment · 2025</text>
+  <!-- Background -->
+  <rect width="860" height="515" fill="#0d1117" rx="12"/>
 
-<!-- Python -->
-<g class="f1">
-<text x="32" y="82" font-size="11" fill="#c9d1d9" font-weight="600">Python</text>
-<rect x="32" y="87" width="300" height="7" rx="3" fill="#161b22"/>
-<rect x="32" y="87" height="7" rx="3" fill="#3776AB" class="b1"/>
-</g>
-<!-- SQL -->
-<g class="f2">
-<text x="32" y="114" font-size="11" fill="#c9d1d9" font-weight="600">SQL / MySQL</text>
-<rect x="32" y="119" width="300" height="7" rx="3" fill="#161b22"/>
-<rect x="32" y="119" height="7" rx="3" fill="#00d4ff" class="b2"/>
-</g>
-<!-- Excel -->
-<g class="f3">
-<text x="32" y="146" font-size="11" fill="#c9d1d9" font-weight="600">Excel Advanced</text>
-<rect x="32" y="151" width="300" height="7" rx="3" fill="#161b22"/>
-<rect x="32" y="151" height="7" rx="3" fill="#217346" class="b3"/>
-</g>
-<!-- Power BI -->
-<g class="f4">
-<text x="32" y="178" font-size="11" fill="#c9d1d9" font-weight="600">Power BI</text>
-<rect x="32" y="183" width="300" height="7" rx="3" fill="#161b22"/>
-<rect x="32" y="183" height="7" rx="3" fill="#F2C811" class="b4"/>
-</g>
-<!-- Pandas -->
-<g class="f5">
-<text x="32" y="210" font-size="11" fill="#c9d1d9" font-weight="600">Pandas / NumPy</text>
-<rect x="32" y="215" width="300" height="7" rx="3" fill="#161b22"/>
-<rect x="32" y="215" height="7" rx="3" fill="#9f7aea" class="b5"/>
-</g>
-<!-- ML -->
-<g class="f6">
-<text x="32" y="242" font-size="11" fill="#c9d1d9" font-weight="600">Machine Learning</text>
-<rect x="32" y="247" width="300" height="7" rx="3" fill="#161b22"/>
-<rect x="32" y="247" height="7" rx="3" fill="#8B5CF6" class="b6"/>
-</g>
-<!-- n8n -->
-<g class="f7">
-<text x="32" y="274" font-size="11" fill="#c9d1d9" font-weight="600">n8n Automation</text>
-<rect x="32" y="279" width="300" height="7" rx="3" fill="#161b22"/>
-<rect x="32" y="279" height="7" rx="3" fill="#EA4B71" class="b7"/>
-</g>
+  <!-- Title -->
+  <text x="430" y="28" font-family="JetBrains Mono, monospace" font-size="13" fill="#5dade2" text-anchor="middle" font-weight="700" letter-spacing="3">⬡  SKILL  MATRIX  ⬡</text>
 
-<!-- divider -->
-<line x1="380" y1="65" x2="380" y2="450" stroke="#161b22" stroke-width="1"/>
+  <!-- ROW 0 — 6 hexes: x = 110, 202, 294, 386, 478, 570 -->
+  <polygon points="110,44 149.8,67 149.8,113 110,136 70.2,113 70.2,67" fill="#1a3a5c" stroke="#5dade2" stroke-width="1.5" filter="url(#glow-blue)"/>
+  <text x="110" y="90" class="hex-label">Python</text>
 
-<!-- RIGHT: PILLARS -->
-<text x="410" y="82" font-size="11" fill="#00d4ff" font-weight="700" letter-spacing="1.5">TECH PILLARS</text>
+  <polygon points="202,44 241.8,67 241.8,113 202,136 162.2,113 162.2,67" fill="#1a3a5c" stroke="#5dade2" stroke-width="1.5" filter="url(#glow-blue)"/>
+  <text x="202" y="90" class="hex-label">SQL</text>
 
-<!-- card 1: Python & DS -->
-<rect x="410" y="92" width="168" height="62" rx="6" fill="#161b22" stroke="#3776AB" stroke-width="0.8"/>
-<rect x="410" y="92" width="168" height="2" rx="1" fill="#3776AB"/>
-<text x="422" y="110" font-size="10" fill="#c9d1d9" font-weight="700">Python &amp; Data Science</text>
-<text x="422" y="123" font-size="9" fill="#484f58">Python · Pandas · NumPy</text>
-<text x="422" y="135" font-size="9" fill="#484f58">Matplotlib · Seaborn</text>
-<text x="422" y="147" font-size="9" fill="#3776AB">● Core Language</text>
+  <polygon points="294,44 333.8,67 333.8,113 294,136 254.2,113 254.2,67" fill="#3a2e00" stroke="#F2C811" stroke-width="1.5" filter="url(#glow-yellow)"/>
+  <text x="294" y="90" class="hex-label">Power BI</text>
 
-<!-- card 2: AI & ML -->
-<rect x="592" y="92" width="168" height="62" rx="6" fill="#161b22" stroke="#8B5CF6" stroke-width="0.8"/>
-<rect x="592" y="92" width="168" height="2" rx="1" fill="#8B5CF6"/>
-<text x="604" y="110" font-size="10" fill="#c9d1d9" font-weight="700">AI · ML</text>
-<text x="604" y="123" font-size="9" fill="#484f58">Supervised · Unsupervised</text>
-<text x="604" y="135" font-size="9" fill="#484f58">Reinforcement · Deep Learning</text>
-<text x="604" y="147" font-size="9" fill="#8B5CF6">● AI Agents · Google ADK</text>
+  <polygon points="386,44 425.8,67 425.8,113 386,136 346.2,113 346.2,67" fill="#3a0f0f" stroke="#e74c3c" stroke-width="1.5" filter="url(#glow-red)"/>
+  <text x="386" y="84" class="hex-label-sm">Scikit-</text>
+  <text x="386" y="97" class="hex-label-sm">Learn</text>
 
-<!-- card 3: Data Analytics & Visualization -->
-<rect x="410" y="168" width="350" height="62" rx="6" fill="#161b22" stroke="#F2C811" stroke-width="0.8"/>
-<rect x="410" y="168" width="350" height="2" rx="1" fill="#F2C811"/>
-<text x="422" y="186" font-size="10" fill="#c9d1d9" font-weight="700">Data Analytics &amp; Visualization</text>
-<text x="422" y="202" font-size="9" fill="#484f58">Power BI · SQL · MySQL · Excel Advanced</text>
-<text x="422" y="218" font-size="9" fill="#F2C811">● Dashboards &amp; Reports</text>
+  <polygon points="478,44 517.8,67 517.8,113 478,136 438.2,113 438.2,67" fill="#0a2e1a" stroke="#2ecc71" stroke-width="1.5" filter="url(#glow-green)"/>
+  <text x="478" y="84" class="hex-label-sm">Financial</text>
+  <text x="478" y="97" class="hex-label-sm">Accounting</text>
 
-<!-- card 4: Business moved to left -->
-<rect x="32" y="310" width="300" height="60" rx="6" fill="#161b22" stroke="#10B981" stroke-width="0.8"/>
-<rect x="32" y="310" width="300" height="2" rx="1" fill="#10B981"/>
-<text x="44" y="328" font-size="10" fill="#c9d1d9" font-weight="700">Business</text>
-<text x="44" y="341" font-size="9" fill="#484f58">Salesforce · CRM · Strategy · Digital Transformation</text>
-<text x="44" y="353" font-size="9" fill="#10B981">● Finance · Marketing · Mgmt</text>
+  <polygon points="570,44 609.8,67 609.8,113 570,136 530.2,113 530.2,67" fill="#1e0f3a" stroke="#8e44ad" stroke-width="1.5" filter="url(#glow-purple)"/>
+  <text x="570" y="84" class="hex-label-sm">Statistical</text>
+  <text x="570" y="97" class="hex-label-sm">Analysis</text>
 
-<!-- LANGUAGES -->
-<text x="410" y="258" font-size="11" fill="#00d4ff" font-weight="700" letter-spacing="1.5">LANGUAGES</text>
+  <!-- ROW 1 — 6 hexes offset: x = 156, 248, 340, 432, 524, 616 -->
+  <polygon points="156,136 195.8,159 195.8,205 156,228 116.2,205 116.2,159" fill="#1a3a5c" stroke="#5dade2" stroke-width="1.5" filter="url(#glow-blue)"/>
+  <text x="156" y="182" class="hex-label">Pandas</text>
 
-<text x="410" y="278" font-size="10" fill="#c9d1d9">🇦🇫  Persian / Dari</text>
-<rect x="410" y="282" width="340" height="5" rx="2" fill="#161b22"/>
-<rect x="410" y="282" width="340" height="5" rx="2" fill="#00d4ff"/>
-<text x="750" y="288" font-size="9" fill="#8b949e" text-anchor="end">Native</text>
+  <polygon points="248,136 287.8,159 287.8,205 248,228 208.2,205 208.2,159" fill="#1a3a5c" stroke="#5dade2" stroke-width="1.5" filter="url(#glow-blue)"/>
+  <text x="248" y="182" class="hex-label">MySQL</text>
 
-<text x="410" y="305" font-size="10" fill="#c9d1d9">🇬🇧  English</text>
-<rect x="410" y="309" width="340" height="5" rx="2" fill="#161b22"/>
-<rect x="410" y="309" width="316" height="5" rx="2" fill="#8B5CF6"/>
-<text x="750" y="315" font-size="9" fill="#8b949e" text-anchor="end">Proficient</text>
+  <polygon points="340,136 379.8,159 379.8,205 340,228 300.2,205 300.2,159" fill="#3a2e00" stroke="#F2C811" stroke-width="1.5" filter="url(#glow-yellow)"/>
+  <text x="340" y="182" class="hex-label">Tableau</text>
 
-<text x="410" y="332" font-size="10" fill="#c9d1d9">🇮🇳  Hindi</text>
-<rect x="410" y="336" width="340" height="5" rx="2" fill="#161b22"/>
-<rect x="410" y="336" width="316" height="5" rx="2" fill="#10B981"/>
-<text x="750" y="342" font-size="9" fill="#8b949e" text-anchor="end">Proficient</text>
+  <polygon points="432,136 471.8,159 471.8,205 432,228 392.2,205 392.2,159" fill="#3a0f0f" stroke="#e74c3c" stroke-width="1.5" filter="url(#glow-red)"/>
+  <text x="432" y="182" class="hex-label">Classification</text>
 
-<text x="410" y="359" font-size="10" fill="#c9d1d9">🇵🇰  Urdu</text>
-<rect x="410" y="363" width="340" height="5" rx="2" fill="#161b22"/>
-<rect x="410" y="363" width="316" height="5" rx="2" fill="#10B981"/>
-<text x="750" y="369" font-size="9" fill="#8b949e" text-anchor="end">Proficient</text>
+  <polygon points="524,136 563.8,159 563.8,205 524,228 484.2,205 484.2,159" fill="#0a2e1a" stroke="#2ecc71" stroke-width="1.5" filter="url(#glow-green)"/>
+  <text x="524" y="176" class="hex-label-sm">Budgeting &amp;</text>
+  <text x="524" y="189" class="hex-label-sm">Forecasting</text>
 
-<text x="410" y="386" font-size="10" fill="#c9d1d9">🇦🇪  Arabic</text>
-<rect x="410" y="390" width="340" height="5" rx="2" fill="#161b22"/>
-<rect x="410" y="390" width="136" height="5" rx="2" fill="#F59E0B"/>
-<text x="750" y="396" font-size="9" fill="#8b949e" text-anchor="end">Elementary</text>
+  <polygon points="616,136 655.8,159 655.8,205 616,228 576.2,205 576.2,159" fill="#1e0f3a" stroke="#8e44ad" stroke-width="1.5" filter="url(#glow-purple)"/>
+  <text x="616" y="176" class="hex-label-sm">Quantitative</text>
+  <text x="616" y="189" class="hex-label-sm">Research</text>
 
-<text x="410" y="413" font-size="10" fill="#c9d1d9">🇩🇪  German</text>
-<rect x="410" y="417" width="340" height="5" rx="2" fill="#161b22"/>
-<rect x="410" y="417" width="68" height="5" rx="2" fill="#EF4444"/>
-<text x="750" y="423" font-size="9" fill="#8b949e" text-anchor="end">Basic</text>
+  <!-- ROW 2 — 6 hexes: same x as row 0 -->
+  <polygon points="110,228 149.8,251 149.8,297 110,320 70.2,297 70.2,251" fill="#1a3a5c" stroke="#5dade2" stroke-width="1.5" filter="url(#glow-blue)"/>
+  <text x="110" y="274" class="hex-label">NumPy</text>
+
+  <polygon points="202,228 241.8,251 241.8,297 202,320 162.2,297 162.2,251" fill="#1a3a5c" stroke="#5dade2" stroke-width="1.5" filter="url(#glow-blue)"/>
+  <text x="202" y="274" class="hex-label">Snowflake</text>
+
+  <polygon points="294,228 333.8,251 333.8,297 294,320 254.2,297 254.2,251" fill="#3a2e00" stroke="#F2C811" stroke-width="1.5" filter="url(#glow-yellow)"/>
+  <text x="294" y="268" class="hex-label-sm">A/B Testing</text>
+
+  <polygon points="386,228 425.8,251 425.8,297 386,320 346.2,297 346.2,251" fill="#3a0f0f" stroke="#e74c3c" stroke-width="1.5" filter="url(#glow-red)"/>
+  <text x="386" y="274" class="hex-label">Clustering</text>
+
+  <polygon points="478,228 517.8,251 517.8,297 478,320 438.2,297 438.2,251" fill="#0a2e1a" stroke="#2ecc71" stroke-width="1.5" filter="url(#glow-green)"/>
+  <text x="478" y="268" class="hex-label-sm">CVP</text>
+  <text x="478" y="281" class="hex-label-sm">Analysis</text>
+
+  <polygon points="570,228 609.8,251 609.8,297 570,320 530.2,297 530.2,251" fill="#1e0f3a" stroke="#8e44ad" stroke-width="1.5" filter="url(#glow-purple)"/>
+  <text x="570" y="268" class="hex-label-sm">Descriptive</text>
+  <text x="570" y="281" class="hex-label-sm">Statistics</text>
+
+  <!-- ROW 3 — 6 hexes: same x as row 1 -->
+  <polygon points="156,320 195.8,343 195.8,389 156,412 116.2,389 116.2,343" fill="#1a3a5c" stroke="#5dade2" stroke-width="1.5" filter="url(#glow-blue)"/>
+  <text x="156" y="366" class="hex-label">Jupyter</text>
+
+  <polygon points="248,320 287.8,343 287.8,389 248,412 208.2,389 208.2,343" fill="#1a3a5c" stroke="#5dade2" stroke-width="1.5" filter="url(#glow-blue)"/>
+  <text x="248" y="360" class="hex-label-sm">Git /</text>
+  <text x="248" y="373" class="hex-label-sm">GitHub</text>
+
+  <polygon points="340,320 379.8,343 379.8,389 340,412 300.2,389 300.2,343" fill="#3a2e00" stroke="#F2C811" stroke-width="1.5" filter="url(#glow-yellow)"/>
+  <text x="340" y="360" class="hex-label-sm">KPI</text>
+  <text x="340" y="373" class="hex-label-sm">Reporting</text>
+
+  <polygon points="432,320 471.8,343 471.8,389 432,412 392.2,389 392.2,343" fill="#3a0f0f" stroke="#e74c3c" stroke-width="1.5" filter="url(#glow-red)"/>
+  <text x="432" y="360" class="hex-label-sm">Feature</text>
+  <text x="432" y="373" class="hex-label-sm">Engineering</text>
+
+  <polygon points="524,320 563.8,343 563.8,389 524,412 484.2,389 484.2,343" fill="#0a2e1a" stroke="#2ecc71" stroke-width="1.5" filter="url(#glow-green)"/>
+  <text x="524" y="360" class="hex-label-sm">Capital</text>
+  <text x="524" y="373" class="hex-label-sm">Markets</text>
+
+  <polygon points="616,320 655.8,343 655.8,389 616,412 576.2,389 576.2,343" fill="#1e0f3a" stroke="#8e44ad" stroke-width="1.5" filter="url(#glow-purple)"/>
+  <text x="616" y="360" class="hex-label-sm">Structured</text>
+  <text x="616" y="373" class="hex-label-sm">Reporting</text>
+
+  <!-- ROW 4 — 4 middle hexes for diamond taper: x = 202, 294, 386, 478 -->
+  <polygon points="202,412 241.8,435 241.8,481 202,504 162.2,481 162.2,435" fill="#1a3a5c" stroke="#5dade2" stroke-width="1.5" filter="url(#glow-blue)"/>
+  <text x="202" y="458" class="hex-label">Matplotlib</text>
+
+  <polygon points="294,412 333.8,435 333.8,481 294,504 254.2,481 254.2,435" fill="#3a2e00" stroke="#F2C811" stroke-width="1.5" filter="url(#glow-yellow)"/>
+  <text x="294" y="452" class="hex-label-sm">Funnel</text>
+  <text x="294" y="465" class="hex-label-sm">Analysis</text>
+
+  <polygon points="386,412 425.8,435 425.8,481 386,504 346.2,481 346.2,435" fill="#3a0f0f" stroke="#e74c3c" stroke-width="1.5" filter="url(#glow-red)"/>
+  <text x="386" y="452" class="hex-label-sm">Google ADK</text>
+  <text x="386" y="465" class="hex-label-sm">Multi-Agent</text>
+
+  <polygon points="478,412 517.8,435 517.8,481 478,504 438.2,481 438.2,435" fill="#0a2e1a" stroke="#2ecc71" stroke-width="1.5" filter="url(#glow-green)"/>
+  <text x="478" y="452" class="hex-label-sm">Financial</text>
+  <text x="478" y="465" class="hex-label-sm">Risk Mgmt</text>
+
 </svg>
