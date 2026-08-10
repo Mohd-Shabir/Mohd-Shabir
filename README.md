@@ -28,7 +28,7 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 
 <div align="center">
 
-![Skill Matrix](https://raw.githubusercontent.com/Mohd-Shabir/Mohd-Shabir/main/skills.svg)
+![Skill Matrix](https://raw.githubusercontent.com/#)
 
 </div>
 
