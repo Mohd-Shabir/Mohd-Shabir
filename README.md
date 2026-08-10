@@ -6,7 +6,7 @@
 <!-- The SVG Image (Wrapped in a link to your portfolio) -->
 <div align="center">
 
-[![Hero SVG](https://raw.githubusercontent.com/Mohd-Shabir/Mohd-Shabir/main/Head.svg)](https://mohd-shabir.github.io/Portfolio/)
+[![Hero SVG](https://raw.githubusercontent.com/Mohd-Shabir/Mohd-Shabir/main/Head.svg)](#)
 
 <!-- Clickable Links -->
 <p align="center">
