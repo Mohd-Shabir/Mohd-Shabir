@@ -4,9 +4,9 @@
 </p>
 
 <!-- The SVG Image (Wrapped in a link to your portfolio) -->
-<a href="https://mohd-shabir.github.io/Portfolio/">
-  <img src="hero_readme.svg" alt="Hero SVG" width="100%" />
-</a>
+<div align="center">
+
+[![Hero SVG](https://raw.githubusercontent.com/Mohd-Shabir/Mohd-Shabir/main/Head.svg)](https://mohd-shabir.github.io/Portfolio/)
 
 <!-- Clickable Links -->
 <p align="center">
