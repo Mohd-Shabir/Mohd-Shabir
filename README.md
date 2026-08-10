@@ -10,9 +10,15 @@
 
 <!-- Clickable Links -->
 <p align="center">
-  <a href="https://mohd-shabir.github.io/Portfolio/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/mohd-shabir">LinkedIn</a> •
-  <a href="https://www.instagram.com/5habxr?igsh=ZzN5amR4ZTI1eGJi&utm_source=qr">Instagram</a>
+  <a href="https://mohd-shabir.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohd-shabir">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/5habxr?igsh=ZzN5amR4ZTI1eGJi&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
@@ -24,7 +30,6 @@ BSc Digital Business & Data Science student at the University of Europe for Appl
 ---
 
 <!-- SKILLS SECTION -->
-## ⚡ Skill Matrix
 
 ## ⚡ Skill Matrix
 
