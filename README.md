@@ -1,5 +1,4 @@
-<img width="1344" height="896" alt="hero_readme" src="https://github.com/user-attachments/assets/973594a0-4bb8-4b7c-a0d1-7490023058b6" />
-<svg width="1344" height="896" viewBox="0 0 1344 896" xmlns="http://www.w3.org/2000/svg">
+<img width="1344" height="896" alt="hero_readme" src="https://github.com/user-attachments/assets/fc9e8a99-a39e-4db8-af8e-4917d3e196da" />![<svg width="1344" height="896" viewBox="0 0 1344 896" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
     <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.08"/>
@@ -170,7 +169,8 @@
 </g>
 </g>
 
-</svg>
+</svg>Uploading hero_readme.svg…]()
+
 
 ---
 
