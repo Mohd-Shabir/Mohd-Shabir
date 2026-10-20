@@ -1,7 +1,4 @@
-<!-- Profile Views Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Mohd-Shabir&initial=210&label=views&color=8a8a82&style=flat-square" alt="Profile Views" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Mohd-Shabir&initial=210&label=views&color=8a8a82&style=flat-square)](https://github.com/Mohd-Shabir)
 
 <!-- The SVG Image (Wrapped in a link to your portfolio) -->
 <div align="center">
